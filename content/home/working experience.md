@@ -25,12 +25,12 @@ experience:
   - title: Quantitative Analyst
     company: Enel Global Trading
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-egt
     location: Italy, Rome
     date_start: '2020-04-15'
     date_end: '2020-10-15'
     description: |2-
-        Responsibilities include:
+        
         
         * Implementing, maintaining and delivering quantitative models and analytical tools for financial instruments pricing: vanilla and complex derivatives for all commodity classes (Power, Gas, Oil, Coal).
         * Support Front Office activity by providing short/long term quantitative analyses, risk assessment and the valuation of risk premium related to contract optionality and flexibilities.
