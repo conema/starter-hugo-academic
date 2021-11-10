@@ -20,7 +20,7 @@ bio: To update
 interests:
 - Stochastic Processes
 - Discretization of Stochastic Processes
-- Stochastic Volatility Modelling
+- Stochastic Volatility Modelling for dummies
 - High Performance computing
 
 # Education to show in About widget
