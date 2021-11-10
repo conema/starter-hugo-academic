@@ -13,12 +13,12 @@ main:
   - name: Working Experience
     url: '#working_experience'
     weight: 3
-  - name: Publications
-    url: '#publications'
-    weight: 4
+  #- name: Publications
+  #  url: '#publications'
+  #  weight: 4
   - name: Contact
     url: '#contact'
-    weight: 5
+    weight: 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
