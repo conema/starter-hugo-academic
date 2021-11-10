@@ -7,11 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 1
-  - name: Courses
-    url: '#courses'
+  - name: Teaching
+    url: '#teaching'
     weight: 2
-  - name: CV
-    url: '#cv'
+  - name: Working Experience
+    url: '#working_experience'
     weight: 3
   - name: Publications
     url: '#publications'
