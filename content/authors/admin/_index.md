@@ -33,7 +33,7 @@ education:
   - course: M1&2 Pure and Applied Mathematics
     institution: Università degli Studi di Roma Tor Vergata
     year: 2018
-  - course: Bachelor Mathematics
+  - course: Bachelor in Mathematics
     institution: Università degli Studi di Roma Tor Vergata
     year: 2015
 
