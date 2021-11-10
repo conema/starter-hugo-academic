@@ -10,8 +10,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Ecoles des Ponts ParisTech & Università di Roma Tor Vergata
-  url: https://www.stanford.edu/
+- name: Ecole des Ponts ParisTech & Università di Roma Tor Vergata
+#  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
