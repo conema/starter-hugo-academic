@@ -10,12 +10,12 @@ headless: true
 weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Courses'
+title: 'Teaching'
 subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: courses
+  page_type: teaching
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
