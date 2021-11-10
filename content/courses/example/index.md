@@ -40,15 +40,5 @@ url_video: ""
 ---
 
 
-Questo è un bellissimo corso, che tratta di:
-- cose
-  - altre cose
-- cose belle
--cose brutte
+Page under construction
 
-```
-  int ciao = 3
-  print(ciao)
-```
-
-$c^i a_o$
