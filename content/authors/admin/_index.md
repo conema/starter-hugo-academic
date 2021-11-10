@@ -26,8 +26,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Probability
-    institution: Ecole des Ponts ParisTech
+  - course: Pure and Applied Mathematics
+    institution: Università degli Studi di Roma Tor Vergata
     year: 2021
 
 # Social/Academic Networking
