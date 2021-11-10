@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a Ph.D. student in a international joint program between Ecoles des Ponts ParisTech and Università di Roma Tor Vergata. My research are co-supervised by Aurélien Alfonsi (Cermics, ENPC) and Lucia Caramellino (Dipartimento di Matematica, Tor Vergata).
+I'm a Ph.D. student in a international joint program between Ecoles des Ponts ParisTech and Università di Roma Tor Vergata. My research is co-supervised by Aurélien Alfonsi (Cermics, ENPC) and Lucia Caramellino (Dipartimento di Matematica, Tor Vergata).
 My research topic is "High Order Approximations of some Singular Stochastic Processes and related PDEs". Our aim is to construct high order discretization of solutions of SDEs that are singular, through randomization techniques and special developments of semigroup operators.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
