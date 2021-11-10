@@ -25,7 +25,7 @@ experience:
   - title: Quantitative Analyst
     company: Enel Global Trading
     company_url: ''
-    company_logo: enel
+    company_logo: 
     location: Italy, Rome
     date_start: '2020-04-15'
     date_end: '2020-10-15'
