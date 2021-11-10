@@ -6,7 +6,7 @@ title: Edoardo Lombardo
 superuser: false
 
 # Role/position/tagline
-role: Ph.D. Student in Probability
+role: Ph.D. Student in Probability s
 
 # Organizations/Affiliations to show in About widget
 organizations:
