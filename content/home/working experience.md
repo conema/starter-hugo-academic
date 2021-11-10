@@ -40,8 +40,7 @@ experience:
     location: France, Paris
     date_start: '2020-05-01'
     date_end: '2020-10-31'
-    description: Intern at the GRM of GIE AXA. |2- 
-      * Implementing, maintaining and delivering quantitative models and analytical tools for financial instruments pricing: vanilla and complex derivatives for all commodity classes (Power, Gas, Oil, Coal).
+    description: Intern at the GRM of GIE AXA. 
 
 
 design:
