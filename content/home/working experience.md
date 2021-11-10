@@ -35,7 +35,7 @@ experience:
         * Implementing, maintaining and delivering quantitative models and analytical tools for financial instruments pricing: vanilla and complex derivatives for all commodity classes (Power, Gas, Oil, Coal).
         * Support Front Office activity by providing short/long term quantitative analyses, risk assessment and the valuation of risk premium related to contract optionality and flexibilities.
         
-  - title: Risk Analyst - Savings Intern
+  - title: Risk Analyst Intern
     company: AXA
     company_url: ''
     company_logo: axa
