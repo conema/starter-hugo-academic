@@ -10,7 +10,7 @@ role: Ph.D. Student in Probability
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Ecole des Ponts ParisTech & Università di Roma Tor Vergata
+- name: Ecole des Ponts ParisTech <br> Università di Roma Tor Vergata
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: M2 
+    institution: Università degli Studi di Roma Tor Vergata
+    year: 2019
   - course: Pure and Applied Mathematics
     institution: Università degli Studi di Roma Tor Vergata
-    year: 2021
+    year: 2018
+  - course: Pure and Applied Mathematics
+    institution: Università degli Studi di Roma Tor Vergata
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
