@@ -42,7 +42,7 @@ experience:
     location: France, Paris
     date_start: '2020-05-01'
     date_end: '2020-10-31'
-    description: Intern at the GRM of GIE AXA. Development of tools to measure the profitability of new contracts through ALM model. Analysis of product profitability and sensitivity to the main risk factors: rate, redemption, longevity, etc. Measurement of dilution effects for group retirement contracts and analysis of associated impacts on future earnings and on Solvency Capital Requirement (SCR).
+    description: Intern at the GRM of GIE AXA. 
 
 design:
   columns: '2'
