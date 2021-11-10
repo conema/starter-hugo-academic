@@ -10,7 +10,7 @@ role: Ph.D. Student in Probability
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 'Ecole des Ponts ParisTech  \n Università di Roma Tor Vergata'
+- name: Ecole des Ponts ParisTech  <br /> <br /> Università di Roma Tor Vergata
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,7 +20,7 @@ bio: To update
 interests:
 - Stochastic Processes
 - Discretization of Stochastic Processes
-- Stochastic Volatility Modelling for dummies
+- Stochastic Volatility Modelling
 - High Performance computing
 
 # Education to show in About widget
