@@ -26,7 +26,7 @@ experience:
     company: Enel Global Trading
     company_url: ''
     company_logo: org-ENEL
-    location: Italy, Rome
+    location: Italy
     date_start: '2020-04-15'
     date_end: '2020-10-15'
     description: |2-
