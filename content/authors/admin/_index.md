@@ -6,7 +6,7 @@ title: Edoardo Lombardo
 superuser: false
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Probability 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,19 +14,20 @@ organizations:
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: To update
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Stochastic Processes
+- Discretization of Stochastic Processes
+- Stochastic Volatility Modelling
+- High Performance computing
 
 # Education to show in About widget
 education:
   courses:
   - course: Probability
-    institution: Ecoles des Ponts ParisTech
+    institution: Ecole des Ponts ParisTech
     year: 2021
 
 # Social/Academic Networking
