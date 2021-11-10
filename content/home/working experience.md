@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Quantitative Analyst
+  - title: CEO
     company: Enel Global Trading
     company_url: ''
-    company_logo: org-enel
+    company_logo: org-gc
     location: Italy
     date_start: '2020-04-15'
-    date_end: '2020-10-15'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
