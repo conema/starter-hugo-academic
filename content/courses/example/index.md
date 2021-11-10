@@ -1,6 +1,6 @@
 ---
-title: Statistica della Statistica
-summary: Bellissimo test che appare in home
+title: Probability
+summary: First course of Probability for engineering
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
