@@ -11,7 +11,7 @@ role: Ph.D. Student in Probability
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: 'Ecole des Ponts ParisTech  
- Università di Roma Tor Vergata'
+Università di Roma Tor Vergata'
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
