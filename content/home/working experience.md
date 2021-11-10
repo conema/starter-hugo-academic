@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Italy
     date_start: '2020-04-15'
-    date_end: ''
+    date_end: '2020-10-15'
     description: |2-
         Responsibilities include:
         
