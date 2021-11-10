@@ -26,13 +26,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M2 
-    institution: Università degli Studi di Roma Tor Vergata
+  - course: M2 Mathematics for Finance and Data
+    institution: Ecoles des Ponts ParisTech
     year: 2019
-  - course: Pure and Applied Mathematics
+  - course: M1&2 Pure and Applied Mathematics
     institution: Università degli Studi di Roma Tor Vergata
     year: 2018
-  - course: Pure and Applied Mathematics
+  - course: Bachelor Mathematics
     institution: Università degli Studi di Roma Tor Vergata
     year: 2015
 
