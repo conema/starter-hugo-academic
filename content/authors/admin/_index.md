@@ -14,6 +14,8 @@ organizations:
 #  url: https://www.stanford.edu/
 - name: Università di Roma Tor Vergata
 #  url: https://www.stanford.edu/
+- name: Inria - Equipe Mathrisk
+#  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: To update
